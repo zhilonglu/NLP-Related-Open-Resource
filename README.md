@@ -26,6 +26,7 @@ NLP相关的一些公开资源整理，包括基础的公开python库和工具�
   * [ Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
   
 ## 教程资源
+  * [NLP上手教程](https://github.com/FudanNLP/nlp-beginner)
   * [nlp-tutorial](https://github.com/graykode/nlp-tutorial)
   * [Deep Learning NLP Pipeline implemented on Tensorflow](https://github.com/rockingdingo/deepnlp)
   * [Hands-on tutorial on deep learning with a special focus on Natural Language Processing (NLP)](https://github.com/UKPLab/deeplearning4nlp-tutorial)
