@@ -38,6 +38,7 @@ NLP相关的一些公开资源整理，包括基础的公开python库和工具�
   
 ## 其他整理的NLP related resources
   * [awesome-nlp](https://github.com/keon/awesome-nlp)
+  * [awesome-bert-nlp](https://github.com/cedrickchee/awesome-bert-nlp)
   * [Repository to track the progress in Natural Language Processing (NLP), including the datasets and the current state-of-the-art for the most common NLP tasks.](https://github.com/sebastianruder/NLP-progress)
   * [A curated list of resources for NLP (Natural Language Processing) for Chinese 中文自然语言处理相关资料](https://github.com/crownpku/Awesome-Chinese-NLP)
   
