@@ -47,3 +47,7 @@ NLP相关的一些公开资源整理，包括基础的公开python库和工具�
   * [TextInfoExp](https://github.com/Roshanson/TextInfoExp)
   * [Natural Language Processing Tasks and References](https://github.com/Kyubyong/nlp_tasks)
   
+## Bert Related
+ * [Keras下bert的一些使用](https://github.com/bojone/bert_in_keras)
+ * [Keras-bert](https://github.com/CyberZHG/keras-bert)
+  
