@@ -53,3 +53,5 @@ NLP相关的一些公开资源整理，包括基础的公开python库和工具�
  * [ Pretrained PyTorch models for Google's BERT, OpenAI GPT & GPT-2, Google/CMU Transformer-XL](https://github.com/huggingface/pytorch-pretrained-BERT)
  * [bert-as-service](https://github.com/hanxiao/bert-as-service)
   
+## XLNet related
+* [XLNEet](https://github.com/zihangdai/xlnet)
