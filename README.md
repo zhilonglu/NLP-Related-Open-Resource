@@ -18,6 +18,7 @@ NLP相关的一些公开资源整理，包括基础的公开python库和工具�
   * [结巴中文分词](https://github.com/fxsjy/jieba)
   * [ Industrial-strength Natural Language Processing (NLP) with Python and Cython](https://github.com/explosion/spaCy)
   * [Easy to use NLP library built on PyTorch and TorchText](https://github.com/kolloldas/torchnlp)
+  * [Multi-Domain Chinese word segmentation](https://github.com/lancopku/pkuseg-python/)
 
 ## 相关课程资源
   * [anlp19](https://github.com/dbamman/anlp19)
