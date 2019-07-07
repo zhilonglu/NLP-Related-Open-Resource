@@ -55,4 +55,7 @@ NLP相关的一些公开资源整理，包括基础的公开python库和工具�
  * [bert-as-service](https://github.com/hanxiao/bert-as-service)
   
 ## XLNet related
-* [XLNEet](https://github.com/zihangdai/xlnet)
+ * [XLNEet](https://github.com/zihangdai/xlnet)
+
+## NLP 相关比赛
+ * [nlp-competitions-list-review](https://github.com/zhpmatrix/nlp-competitions-list-review)
